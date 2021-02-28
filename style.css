@@ -1,0 +1,16 @@
+.custom{
+    padding: 4%;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(186, 255, 121);
+}
+
+#myDiv h1{
+    margin-bottom: 20px;
+}
+
+#myInput{
+    margin-right: 20px;
+}   
